@@ -1,0 +1,11 @@
+[project]
+name = "rank-sports-data-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "japanize-matplotlib>=1.1.3",
+    "matplotlib>=3.10.6",
+    "pandas>=2.3.3",
+]
